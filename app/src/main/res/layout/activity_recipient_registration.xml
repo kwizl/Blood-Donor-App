@@ -31,7 +31,7 @@
                 android:src="@drawable/bloodlogo"/>
 
             <TextView
-                android:text="Recipient Regiatration"
+                android:text="Recipient Registration"
                 android:textColor="#000"
                 android:textSize="25sp"
                 android:textStyle="bold"
@@ -183,7 +183,7 @@
                         android:textColor="#000"
                         android:textSize="18sp"
                         android:textColorHint="#000"
-                        android:drawableStart="@drawable/ic_key"/>
+                        android:drawableStart="@drawable/ic_lock"/>
 
                 </com.google.android.material.textfield.TextInputLayout>
 
