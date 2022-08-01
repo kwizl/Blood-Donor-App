@@ -17,11 +17,11 @@ public class SelectRegistrationActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_select_registration);
 
-        donorButton = findViewById(R.id.recipientButton);
+        donorButton = findViewById(R.id.donorButton);
         recipientButton = findViewById(R.id.recipientButton);
         backButton = findViewById(R.id.backButton);
 
-        recipientButton.setOnClickListener(view -> {
+        donorButton.setOnClickListener(view -> {
             Intent intent = new Intent(SelectRegistrationActivity.this, DonorRegistrationActivity.class);
             startActivity(intent);
         });
