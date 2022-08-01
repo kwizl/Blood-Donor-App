@@ -69,7 +69,7 @@
                         android:layout_height="wrap_content"/>
 
                     <Button
-                        android:id="@+id/recipentButton"
+                        android:id="@+id/recipientButton"
                         android:text="Recipient Registration"
                         android:textAllCaps="false"
                         android:layout_marginTop="10dp"

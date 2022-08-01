@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Source/Repos/Blood-Donor-App/app/src/main/res/drawable/buttons_background.xml" value="0.1" />
+        <entry key="..\:/Source/Repos/Blood-Donor-App/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Source/Repos/Blood-Donor-App/app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="..\:/Source/Repos/Blood-Donor-App/app/src/main/res/layout/activity_donor_registration.xml" value="0.1901886860897383" />
         <entry key="..\:/Source/Repos/Blood-Donor-App/app/src/main/res/layout/activity_login.xml" value="0.13496376811594202" />
         <entry key="..\:/Source/Repos/Blood-Donor-App/app/src/main/res/layout/activity_select_registration.xml" value="0.1" />
         <entry key="..\:/Source/Repos/Blood-Donor-App/app/src/main/res/layout/activity_splash_screen.xml" value="0.2644927536231884" />
